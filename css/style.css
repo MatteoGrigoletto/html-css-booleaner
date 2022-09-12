@@ -1,0 +1,17 @@
+*{
+ margin: 0px;
+}
+#logo{
+    width: 250px;
+    margin-top: 50px;
+}
+#logo, main{
+    margin-left: 5px;
+}
+
+.boolean{
+background-color: #4EA0FF;
+background-image: url(../img/pattern.png);
+height: 120px;
+background-size: 500px;
+}
