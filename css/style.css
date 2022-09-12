@@ -51,3 +51,15 @@ ul{
 .border-table{
     border-collapse: collapse;
 }
+.box{
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 200px;
+    background-size: contain; 
+}
+#monitor{
+    background-image: url(../img/monitor.jpg);
+}
+#grafico{
+    background-image: url(../img/graph.jpg);
+}
