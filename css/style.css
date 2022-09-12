@@ -23,6 +23,7 @@ h1{
 span{
     color: rgb(39, 185, 253);
     font-size: 18px;
+    
 }
 .small-text{
     font-size: 12px;
@@ -62,4 +63,15 @@ ul{
 }
 #grafico{
     background-image: url(../img/graph.jpg);
+}
+.text-inside{
+    color: white;
+    font-size: 25px;
+    padding: 10px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.bold{
+    font-weight: bold;
+    
 }
