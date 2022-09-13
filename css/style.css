@@ -1,5 +1,7 @@
 *{
  margin: 0px;
+ max-width: 1300px;
+ margin: auto;
 }
 #logo{
     width: 250px;
@@ -61,9 +63,11 @@ ul{
 }
 #monitor{
     background-image: url(../img/monitor.jpg);
+    margin-left: 0px;
 }
 #grafico{
     background-image: url(../img/graph.jpg);
+    margin-left: 0px;
 }
 .text-inside{
     color: white;
